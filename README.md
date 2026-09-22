@@ -10,7 +10,8 @@
 
 ```console
 root@rochacrypt:~# ls ~/knowledge-base
-ceh/  ccfa/  cllmsp/  fortinet-fca/  ehe-nde/
+certs/     ceh  ccfa  cllmsp  fortinet-fca  ehe-nde
+roadmaps/  oscp  security-plus  pentest-plus  cissp  cism
 ```
 
 Visual mind maps and condensed notes for the certifications I hold — built to be **studied, not just read**. Each map links the exam topics to how they show up in real engagements.
@@ -41,7 +42,27 @@ mindmap
         Prompt Injection
 ```
 
-## 📚 Study Maps
+## 🧭 Certification Roadmap
+
+```mermaid
+flowchart LR
+    A[🛡️ Security+<br/>foundation] --> B[🎯 PenTest+]
+    A --> C[⚔️ CEH ✅]
+    B --> D[🗡️ OSCP]
+    C --> D
+    A --> E[🏛️ CISSP]
+    E --> F[📊 CISM]
+    style C fill:#3a0008,stroke:#ff2e4c,color:#ffffff
+    style D fill:#3a0008,stroke:#ff2e4c,color:#ffffff
+    style A fill:#0d1117,stroke:#8b949e,color:#ffffff
+    style B fill:#0d1117,stroke:#8b949e,color:#ffffff
+    style E fill:#0d1117,stroke:#8b949e,color:#ffffff
+    style F fill:#0d1117,stroke:#8b949e,color:#ffffff
+```
+
+<sub>Technical track on top, management track below. ✅ = certification I hold.</sub>
+
+## ✅ My Certifications — study maps from experience
 
 | Map | Focus | Level |
 | :--- | :--- | :--- |
@@ -50,6 +71,18 @@ mindmap
 | [**CLLMSP** — LLM Security](./certs/cllmsp.md) | OWASP Top 10 for LLM Applications | ⭐⭐ |
 | [**Fortinet FCA**](./certs/fortinet-fca.md) | Security fundamentals & FortiGate basics | ⭐ |
 | [**EHE & NDE** — EC-Council Essentials](./certs/ehe-nde.md) | Attack & defence foundations | ⭐ |
+
+## 📖 Industry Roadmaps — popular certifications mapped
+
+| Map | Track | Format |
+| :--- | :--- | :--- |
+| [**OSCP**](./roadmaps/oscp.md) — OffSec Certified Professional | 🔴 Offensive | 24h practical + report |
+| [**PenTest+**](./roadmaps/pentest-plus.md) — CompTIA | 🔴 Offensive | Multiple choice + PBQs |
+| [**Security+**](./roadmaps/security-plus.md) — CompTIA | ⚪ Foundation | Multiple choice + PBQs |
+| [**CISSP**](./roadmaps/cissp.md) — ISC2 | 🔵 Management | Adaptive, 8 domains |
+| [**CISM**](./roadmaps/cism.md) — ISACA | 🔵 Management | Multiple choice, 4 domains |
+
+> Industry roadmaps are study maps built from each certification's public outline — not certifications I claim to hold.
 
 ## 🧭 How to Use
 
