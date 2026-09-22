@@ -40,7 +40,8 @@ mindmap
       Deserialization
     Exploit Dev
       Scripting
-      Chaining```
+      Chaining
+```
 
 ## 📌 Fast facts
 

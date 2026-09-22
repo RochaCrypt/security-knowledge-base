@@ -37,7 +37,8 @@ mindmap
     Assessment
     Authorisation
       ATO
-    Continuous Monitoring```
+    Continuous Monitoring
+```
 
 ## 📌 Fast facts
 

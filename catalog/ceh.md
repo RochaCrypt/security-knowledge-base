@@ -48,7 +48,8 @@ mindmap
     Modern
       Cloud
       IoT and OT
-      Mobile```
+      Mobile
+```
 
 ## 📌 Fast facts
 

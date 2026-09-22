@@ -40,7 +40,8 @@ mindmap
     Active Directory
       Kerberos
       Lateral movement
-    Adversary Simulation```
+    Adversary Simulation
+```
 
 ## 📌 Fast facts
 

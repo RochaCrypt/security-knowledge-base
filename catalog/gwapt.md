@@ -40,7 +40,8 @@ mindmap
       CSRF
       Fixation
     Exploitation
-    Reporting```
+    Reporting
+```
 
 ## 📌 Fast facts
 

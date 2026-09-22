@@ -42,7 +42,8 @@ mindmap
     Respond
       Incident mgmt
     Implementation Groups
-      IG1 to IG3```
+      IG1 to IG3
+```
 
 ## 📌 Fast facts
 

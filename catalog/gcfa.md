@@ -39,7 +39,8 @@ mindmap
     Threat Hunting
       IOCs
     Timeline
-      Reconstruction```
+      Reconstruction
+```
 
 ## 📌 Fast facts
 

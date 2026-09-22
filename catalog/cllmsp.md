@@ -44,7 +44,8 @@ mindmap
       Excessive agency
     Platform
       Supply chain
-      Unbounded consumption```
+      Unbounded consumption
+```
 
 ## 📌 Fast facts
 

@@ -42,7 +42,8 @@ mindmap
       Containment
     Reporting
       Metrics
-      Communication```
+      Communication
+```
 
 ## 📌 Fast facts
 

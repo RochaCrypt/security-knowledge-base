@@ -45,7 +45,8 @@ mindmap
       Kerberoast
       Lateral movement
     Pivoting
-    Report```
+    Report
+```
 
 ## 📌 Fast facts
 

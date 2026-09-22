@@ -43,7 +43,8 @@ mindmap
     Operations
       Logging
       Monitoring
-    Compliance```
+    Compliance
+```
 
 ## 📌 Fast facts
 

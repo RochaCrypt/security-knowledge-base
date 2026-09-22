@@ -46,7 +46,8 @@ mindmap
     Respond
       Incident handling
     Recover
-      Restoration```
+      Restoration
+```
 
 ## 📌 Fast facts
 

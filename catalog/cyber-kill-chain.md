@@ -37,7 +37,8 @@ mindmap
     Exploitation
     Installation
     Command and Control
-    Actions on Objectives```
+    Actions on Objectives
+```
 
 ## 📌 Fast facts
 

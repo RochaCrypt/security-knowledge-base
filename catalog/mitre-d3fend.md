@@ -38,7 +38,8 @@ mindmap
       Analysis
     Isolate
     Deceive
-    Evict```
+    Evict
+```
 
 ## 📌 Fast facts
 

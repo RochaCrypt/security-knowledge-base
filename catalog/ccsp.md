@@ -42,7 +42,8 @@ mindmap
     Application Security
       Secure SDLC
     Operations
-    Legal and Compliance```
+    Legal and Compliance
+```
 
 ## 📌 Fast facts
 

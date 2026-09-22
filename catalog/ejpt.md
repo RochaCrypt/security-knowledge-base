@@ -42,7 +42,8 @@ mindmap
     Exploitation
       Metasploit
       Reverse shells
-    Pivoting```
+    Pivoting
+```
 
 ## 📌 Fast facts
 

@@ -38,7 +38,8 @@ mindmap
     Compliance
       CCM
       Residency
-    Shared Responsibility```
+    Shared Responsibility
+```
 
 ## 📌 Fast facts
 

@@ -40,7 +40,8 @@ mindmap
       Monitoring
       Falco
     Network
-      Policies```
+      Policies
+```
 
 ## 📌 Fast facts
 

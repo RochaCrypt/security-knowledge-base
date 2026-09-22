@@ -40,7 +40,8 @@ mindmap
       Context
     Score
       0 to 10
-      Severity bands```
+      Severity bands
+```
 
 ## 📌 Fast facts
 

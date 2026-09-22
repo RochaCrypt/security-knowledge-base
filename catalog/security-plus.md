@@ -47,7 +47,8 @@ mindmap
     Program Mgmt
       Governance
       Risk
-      Compliance```
+      Compliance
+```
 
 ## 📌 Fast facts
 

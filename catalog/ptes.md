@@ -40,7 +40,8 @@ mindmap
     Exploitation
     Post-Exploitation
       Impact
-    Reporting```
+    Reporting
+```
 
 ## 📌 Fast facts
 

@@ -43,7 +43,8 @@ mindmap
     Auth Failures
     Integrity Failures
     Logging Failures
-    SSRF```
+    SSRF
+```
 
 ## 📌 Fast facts
 

@@ -39,7 +39,8 @@ mindmap
       DEP
     Network Attacks
     Fuzzing
-      Vuln discovery```
+      Vuln discovery
+```
 
 ## 📌 Fast facts
 

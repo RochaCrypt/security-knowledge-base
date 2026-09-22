@@ -41,7 +41,8 @@ mindmap
     Monitoring
       Logging
       Testing
-    Policy```
+    Policy
+```
 
 ## 📌 Fast facts
 

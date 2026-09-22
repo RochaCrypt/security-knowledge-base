@@ -42,7 +42,8 @@ mindmap
     IAM
     Assessment and Testing
     Security Operations
-    Software Security```
+    Software Security
+```
 
 ## 📌 Fast facts
 

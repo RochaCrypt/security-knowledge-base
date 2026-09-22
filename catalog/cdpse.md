@@ -39,7 +39,8 @@ mindmap
       Minimisation
       Retention
     Protection
-      Pseudonymisation```
+      Pseudonymisation
+```
 
 ## 📌 Fast facts
 

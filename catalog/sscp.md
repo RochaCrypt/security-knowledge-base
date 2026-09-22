@@ -38,7 +38,8 @@ mindmap
       Recovery
     Cryptography
     Network Security
-    Systems Security```
+    Systems Security
+```
 
 ## 📌 Fast facts
 

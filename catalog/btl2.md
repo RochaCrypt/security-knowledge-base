@@ -39,7 +39,8 @@ mindmap
     Forensics
       Deep dive
     Incident Response
-      Advanced```
+      Advanced
+```
 
 ## 📌 Fast facts
 

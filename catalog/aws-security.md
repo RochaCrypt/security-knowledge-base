@@ -45,7 +45,8 @@ mindmap
       Roles
     Data Protection
       KMS
-      Encryption```
+      Encryption
+```
 
 ## 📌 Fast facts
 

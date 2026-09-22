@@ -43,7 +43,8 @@ mindmap
       Root cause
     Recovery
       Validation
-    Lessons Learned```
+    Lessons Learned
+```
 
 ## 📌 Fast facts
 

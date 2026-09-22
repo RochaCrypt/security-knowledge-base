@@ -40,7 +40,8 @@ mindmap
       Macros
     Active Directory
       Advanced attacks
-    Custom Tooling```
+    Custom Tooling
+```
 
 ## 📌 Fast facts
 

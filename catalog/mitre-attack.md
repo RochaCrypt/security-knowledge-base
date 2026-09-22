@@ -42,7 +42,8 @@ mindmap
     Collection
     Command and Control
     Exfiltration
-    Impact```
+    Impact
+```
 
 ## 📌 Fast facts
 

@@ -40,7 +40,8 @@ mindmap
       Treatment
       Reporting
     Controls
-      Monitoring```
+      Monitoring
+```
 
 ## 📌 Fast facts
 

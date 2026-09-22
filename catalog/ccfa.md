@@ -45,7 +45,8 @@ mindmap
       Response and RTR
     Detections
       Custom IOAs
-      Exclusions```
+      Exclusions
+```
 
 ## 📌 Fast facts
 

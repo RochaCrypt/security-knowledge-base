@@ -42,7 +42,8 @@ mindmap
       Metrics
     Incident Management
       Response
-      Continuity```
+      Continuity
+```
 
 ## 📌 Fast facts
 

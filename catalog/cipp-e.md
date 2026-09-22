@@ -39,7 +39,8 @@ mindmap
     Transfers
       Safeguards
     Enforcement
-      Authorities```
+      Authorities
+```
 
 ## 📌 Fast facts
 

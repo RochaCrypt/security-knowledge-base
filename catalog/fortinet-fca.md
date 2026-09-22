@@ -43,7 +43,8 @@ mindmap
       Policies
       NAT
       Security profiles
-    Security Fabric```
+    Security Fabric
+```
 
 ## 📌 Fast facts
 

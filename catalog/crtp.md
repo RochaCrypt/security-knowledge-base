@@ -44,7 +44,8 @@ mindmap
       DCSync
     Trusts
       Cross-domain
-      Cross-forest```
+      Cross-forest
+```
 
 ## 📌 Fast facts
 

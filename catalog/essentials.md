@@ -39,7 +39,8 @@ mindmap
       Access control
       Network controls
       Cryptography
-      Monitoring```
+      Monitoring
+```
 
 ## 📌 Fast facts
 

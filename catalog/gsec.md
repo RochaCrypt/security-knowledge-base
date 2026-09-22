@@ -37,7 +37,8 @@ mindmap
     Access Control
     Defensive Tools
       Hardening
-    Incident Handling```
+    Incident Handling
+```
 
 ## 📌 Fast facts
 

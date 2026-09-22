@@ -40,7 +40,8 @@ mindmap
     Chaining
       To admin
       To data
-    Burp Skills```
+    Burp Skills
+```
 
 ## 📌 Fast facts
 

@@ -38,7 +38,8 @@ mindmap
       Active Directory
       Lateral movement
     Report
-    Live Debrief```
+    Live Debrief
+```
 
 ## 📌 Fast facts
 
